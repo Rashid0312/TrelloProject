@@ -1,0 +1,10 @@
+# Elixir/Phoenix dependencies and build artifacts
+/_build/
+/deps/
+
+# Node dependencies (standard for any npm project)
+/node_modules/
+
+# Lock files (optional, but good practice for starting clean)
+/mix.lock
+/package-lock.json
