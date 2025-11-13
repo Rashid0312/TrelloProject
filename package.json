@@ -1,5 +1,5 @@
 {
-  "name": "trello_api_v2",
+  "name": "PhoenixTrello",
   "version": "1.0.0",
   "description": "To start your Phoenix server:",
   "main": "index.js",
